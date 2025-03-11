@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umutcan Ekinci</h1>
+![](https://github.com/umutcanekinci/umutcanekinci/blob/main/title.gif)
 <h3 align="center">A passionate game developer from Türkiye</h3>
 
 ![](https://github.com/umutcanekinci/umutcanekinci/blob/main/python.gif)
