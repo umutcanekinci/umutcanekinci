@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umutcan Ekinci</h1>
 <h3 align="center">A passionate game developer from Türkiye</h3>
 
+![](https://github.com/umutcanekinci/umutcanekinci/blob/main/giphy.gif)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutcanekinci" alt="umutcanekinci" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
