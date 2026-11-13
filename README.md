@@ -1,40 +1,42 @@
+# Hi, I'm Umutcan
 
-<img align=center width="1000" src="https://github.com/umutcanekinci/umutcanekinci/blob/main/title.gif" />
+Software engineering student (Yaşar University, currently at AGH University in Kraków, Poland). I build small, finished games in Python and Unity and publish them under the name **VectorViolet**.
 
-<h3 align="center">A passionate game developer from Türkiye</h3>
+**Looking for a game developer internship in summer 2027.** Poland first, open to Türkiye.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umutcanekinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutcanekinci" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umutcanekinci"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30"></a> &nbsp; <a href="https://umutcanekinci.itch.io/"><img src="itchio.png" alt="itch.io" height="30"></a> &nbsp; [Portfolio on GitHub](https://github.com/vectorviolet)
+
+## My games
+
+| Game | What it is | Stack |
+|---|---|---|
+| [Chokepoint](https://github.com/vectorviolet/chokepoint) ([play](https://umutcanekinci.itch.io/chokepoint)) | Tower defense: hold the line through 25 waves, then go endless. | Python, pygame-ce |
+| [Highrise](https://github.com/vectorviolet/highrise) ([play](https://umutcanekinci.itch.io/highrise)) | Isometric city-builder: merge buildings 2048-style and rise through four ages. | Python, pygame-ce |
+| [Sastermate](https://github.com/vectorviolet/sastermate) ([play](https://umutcanekinci.itch.io/sastermate)) | Climate-crisis city game team game for GameUp (HP, ICPSD, UNDP) on the COP31 theme, where I was the developer. | Unity, C# |
+
+Chokepoint and Highrise are v1.0 releases with CI, tests, Windows/macOS/Linux builds and a public devlog. They run on [pygamine](https://github.com/vectorviolet/pygamine), a small engine layer I wrote on top of pygame-ce. More Unity projects are on the way.
+
+## Skills
+
+**Game development**
+
+<p>
+  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <h4 align="left">Game Dev:</h3> <!-- Add pygame, tiled2d, jetbrains rider and pycharm(?) -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
-  <h4 align="left">Desktop App Dev:</h3>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+Unity, C#, Python with pygame-ce, Tiled maps, Git and GitHub Actions CI.
 
-  <h4 align="left">Database:</h3>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+**Also**
 
-  <h4 align="left">Web:</h3> <!-- Add django, nodejs(?) -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-  <h4 align="left">Tools:</h3> <!-- Add Canva, Miro -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umutcanekinci" alt="GitHub Streak" />
+<p>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="32" height="32"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="32" height="32"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="32" height="32"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="32" height="32"/></a>
 </p>
