@@ -4,7 +4,7 @@ Software engineering student (Yaşar University, currently at AGH University in 
 
 **Looking for a game developer internship in summer 2027.** Poland first, open to Türkiye.
 
-<a href="https://linkedin.com/in/umutcanekinci"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30"></a> &nbsp; [Portfolio on GitHub](https://github.com/vectorviolet) · [itch.io](https://umutcanekinci.itch.io/)
+<a href="https://linkedin.com/in/umutcanekinci"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30"></a> &nbsp; <a href="https://umutcanekinci.itch.io/"><img src="itchio.png" alt="itch.io" height="30"></a> &nbsp; [Portfolio on GitHub](https://github.com/vectorviolet)
 
 ## My games
 
