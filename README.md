@@ -12,9 +12,10 @@ Software engineering student (Yaşar University, currently at AGH University in 
 |---|---|---|---|
 | <img src="img/icon-chokepoint.png" alt="" width="48"> | [Chokepoint](https://github.com/vectorviolet/chokepoint) ([play](https://umutcanekinci.itch.io/chokepoint)) | Tower defense: hold the line through 25 waves, then go endless. | Python, pygame-ce |
 | <img src="img/icon-highrise.png" alt="" width="48"> | [Highrise](https://github.com/vectorviolet/highrise) ([play](https://umutcanekinci.itch.io/highrise)) | Isometric city-builder: merge buildings 2048-style and rise through four ages. | Python, pygame-ce |
+| <img src="img/icon-the-hunted.png" alt="" width="48"> | [The Hunted](https://github.com/vectorviolet/the-hunted) ([play](https://umutcanekinci.itch.io/the-hunted)) | Couch platformer chase: a vampire hunts a peasant, against the AI or a friend on one keyboard. | Python, pygame-ce |
 | <img src="img/icon-sastermate.png" alt="" width="48"> | [Sastermate](https://github.com/vectorviolet/sastermate) ([play](https://umutcanekinci.itch.io/sastermate)) | Climate-crisis city game team game for GameUp (HP, ICPSD, UNDP) on the COP31 theme, where I was the developer. | Unity, C# |
 
-Chokepoint and Highrise are v1.0 releases with CI, tests, Windows/macOS/Linux builds and a public devlog. They run on [pygamine](https://github.com/vectorviolet/pygamine), a small engine layer I wrote on top of pygame-ce. More Unity projects are on the way.
+Chokepoint and Highrise are v1.0 releases with CI, tests, Windows/macOS/Linux builds and a public devlog. The Hunted (v0.3.0) is my first pygame project, brought up to the same standard with new pixel art, a browser build and a Windows installer. All three run on [pygamine](https://github.com/vectorviolet/pygamine), a small engine layer I wrote on top of pygame-ce. More Unity projects are on the way.
 
 ## Skills
 
